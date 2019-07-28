@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['hostname'] = 'my-db-instance-1.cx0hv3jgbgzc.us-east-1.rds.amazonaws.com';
+$db['default']['username'] = 'admin';
+$db['default']['password'] = 'admin123';
 $db['default']['database'] = 'bukutamu';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
