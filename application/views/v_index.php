@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Buku Tamu</title>
+    <title>BUKU TAMU DIGITAL TALENT SCHOLARSHIP 2019</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo base_url(); ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
