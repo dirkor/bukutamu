@@ -22,7 +22,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://18.139.194.167/';
+$config['base_url'] = 'http://ec2-13-228-76-44.ap-southeast-1.compute.amazonaws.com/';
 
 /*
 |--------------------------------------------------------------------------
